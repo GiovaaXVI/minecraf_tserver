@@ -1024,3 +1024,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 19:15:44.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
 [20Dec2024 19:15:56.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Amateur Archaeologist]
 [20Dec2024 19:16:14.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/32034, l='ServerLevel[world]', x=193.43, y=68.94, z=809.06] died, message: 'Nitwit was slain by Ghost'
+[20Dec2024 19:16:28.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/32538, l='ServerLevel[world]', x=148.45, y=63.00, z=862.86] died, message: 'Beekeeper was slain by Ghost'
+[20Dec2024 19:16:42.209] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37655, l='ServerLevel[world]', x=250.50, y=71.00, z=873.50]
+[20Dec2024 19:16:46.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/32135, l='ServerLevel[world]', x=169.40, y=63.00, z=849.14] died, message: 'Scribe was slain by Ghost'
+[20Dec2024 19:17:25.059] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37794, l='ServerLevel[world]', x=248.50, y=71.00, z=871.50]
+[20Dec2024 19:18:46.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was shot by Skeleton
+[20Dec2024 19:18:46.250] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[20Dec2024 19:19:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Not even afraid of death]
+[20Dec2024 19:19:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Back to childhood]
+[20Dec2024 19:19:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Magic Writing]
+[20Dec2024 19:21:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Diamonds!]
+[20Dec2024 19:21:54.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by The Hunter
+[20Dec2024 19:21:54.399] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[20Dec2024 19:22:32.608] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[20Dec2024 19:22:32.608] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[20Dec2024 19:22:32.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[20Dec2024 19:22:32.723] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[20Dec2024 19:22:32.723] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[20Dec2024 19:22:46.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has reached the goal [Chain Death]
+[20Dec2024 19:22:46.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Umvuthana
+[20Dec2024 19:22:46.876] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[20Dec2024 19:24:10.242] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[20Dec2024 19:24:12.784] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[20Dec2024 19:24:12.784] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[20Dec2024 19:24:12.785] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[20Dec2024 19:24:23.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ghost
+[20Dec2024 19:24:23.847] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[20Dec2024 19:24:32.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43405, l='ServerLevel[world]', x=249.50, y=71.00, z=871.50]
+[20Dec2024 19:25:17.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44066, l='ServerLevel[world]', x=250.50, y=71.00, z=871.50]
+[20Dec2024 19:25:54.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [A Seedy Place]
+[20Dec2024 19:26:00.161] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44528, l='ServerLevel[world]', x=249.50, y=71.00, z=873.50]
+[20Dec2024 19:26:05.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Book of Monsters]

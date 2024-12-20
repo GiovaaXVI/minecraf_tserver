@@ -133,11 +133,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2024-12-20 19:20:11 +0000",
       "minecraft:sparse_jungle": "2024-12-20 18:09:58 +0000",
       "minecraft:river": "2024-12-20 18:11:59 +0000",
       "minecraft:dripstone_caves": "2024-12-20 18:17:36 +0000",
       "minecraft:desert": "2024-12-20 18:13:30 +0000",
-      "minecraft:jungle": "2024-12-20 18:12:06 +0000"
+      "minecraft:jungle": "2024-12-20 18:12:06 +0000",
+      "minecraft:savanna": "2024-12-20 19:12:48 +0000"
     },
     "done": false
   },
@@ -253,7 +255,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:cave_spider": "2024-12-20 18:20:47 +0000",
-      "minecraft:silverfish": "2024-12-20 18:31:02 +0000"
+      "minecraft:silverfish": "2024-12-20 18:31:02 +0000",
+      "minecraft:zombie": "2024-12-20 19:21:12 +0000"
     },
     "done": false
   },
@@ -302,6 +305,24 @@
   "endrem:main/root": {
     "criteria": {
       "lost_eye": "2024-12-20 18:54:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-20 19:14:31 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 19:22:46 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-20 19:14:31 +0000"
     },
     "done": true
   },
