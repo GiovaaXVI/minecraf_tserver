@@ -134,10 +134,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2024-12-20 18:57:07 +0000",
+      "minecraft:beach": "2024-12-20 19:08:02 +0000",
       "minecraft:sparse_jungle": "2024-12-20 18:04:07 +0000",
       "minecraft:river": "2024-12-20 18:09:07 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-20 19:08:01 +0000",
       "minecraft:dripstone_caves": "2024-12-20 18:12:04 +0000",
+      "minecraft:forest": "2024-12-20 19:09:56 +0000",
       "minecraft:desert": "2024-12-20 18:05:28 +0000",
+      "minecraft:jungle": "2024-12-20 19:11:24 +0000",
+      "minecraft:warm_ocean": "2024-12-20 19:07:08 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-20 19:13:11 +0000",
       "minecraft:savanna": "2024-12-20 18:13:22 +0000",
       "minecraft:plains": "2024-12-20 18:09:49 +0000"
     },
@@ -220,7 +226,8 @@
       "chicken": "2024-12-20 18:56:05 +0000",
       "cooked_beef": "2024-12-20 18:19:06 +0000",
       "beef": "2024-12-20 18:13:04 +0000",
-      "rabbit": "2024-12-20 18:56:12 +0000"
+      "rabbit": "2024-12-20 18:56:12 +0000",
+      "melon_slice": "2024-12-20 19:14:05 +0000"
     },
     "done": false
   },
@@ -272,11 +279,71 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-20 19:03:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-20 18:57:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/chain_death": {
     "criteria": {
@@ -284,11 +351,35 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2024-12-20 19:03:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-20 18:57:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 19:13:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
