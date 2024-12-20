@@ -1069,3 +1069,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 19:36:14.077] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
 [20Dec2024 19:36:14.077] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
 [20Dec2024 19:36:25.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[20Dec2024 19:36:54.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was struck with lightning by Lightning Dragon
+[20Dec2024 19:36:54.384] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[20Dec2024 19:37:06.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Lightning Dragon
+[20Dec2024 19:37:06.680] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[20Dec2024 19:37:08.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was energized by Lightning Dragon
+[20Dec2024 19:37:08.343] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[20Dec2024 19:37:22.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was energized by Lightning Dragon
+[20Dec2024 19:37:22.216] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[20Dec2024 19:37:51.545] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[20Dec2024 19:37:51.546] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
+[20Dec2024 19:37:51.546] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[20Dec2024 19:37:51.546] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[20Dec2024 19:37:51.546] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
+[20Dec2024 19:37:51.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[20Dec2024 19:37:51.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
+[20Dec2024 19:37:51.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[20Dec2024 19:37:51.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
+[20Dec2024 19:37:51.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[20Dec2024 19:37:54.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Lightning Dragon
+[20Dec2024 19:37:54.036] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[20Dec2024 19:37:58.034] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[20Dec2024 19:37:58.052] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[20Dec2024 19:37:58.252] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[20Dec2024 19:37:58.252] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[20Dec2024 19:37:58.253] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[20Dec2024 19:37:58.253] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[20Dec2024 19:37:58.253] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[20Dec2024 19:37:58.253] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[20Dec2024 19:37:58.253] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[20Dec2024 19:37:58.254] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[20Dec2024 19:37:58.254] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[20Dec2024 19:37:58.254] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[20Dec2024 19:37:58.254] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[20Dec2024 19:37:58.254] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[20Dec2024 19:37:58.254] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[20Dec2024 19:37:58.255] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[20Dec2024 19:37:58.255] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[20Dec2024 19:37:58.255] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[20Dec2024 19:37:58.255] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[20Dec2024 19:37:58.255] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=24, z=-591}
+[20Dec2024 19:38:06.038] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[20Dec2024 19:38:06.039] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[20Dec2024 19:38:06.039] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[20Dec2024 19:38:07.992] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[20Dec2024 19:38:08.004] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[20Dec2024 19:38:08.004] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[20Dec2024 19:38:45.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has reached the goal [Flowers of the Savanna]
+[20Dec2024 19:39:44.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Door Knight
+[20Dec2024 19:39:44.941] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[20Dec2024 19:40:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx fell from a high place
+[20Dec2024 19:40:03.641] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[20Dec2024 19:40:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by The Heavy
+[20Dec2024 19:40:48.595] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[20Dec2024 19:41:00.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was squashed by a falling anvil
+[20Dec2024 19:41:00.233] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[20Dec2024 19:41:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [Your dad after a night out with his co-workers]
+[20Dec2024 19:43:08.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [This Must be a Sign!]
+[20Dec2024 19:43:15.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was shot by Skeleton
+[20Dec2024 19:43:15.341] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[20Dec2024 19:45:27.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovanyBy14 lost connection: Disconnected
+[20Dec2024 19:45:27.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 left the game
