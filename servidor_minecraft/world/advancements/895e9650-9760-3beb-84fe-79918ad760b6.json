@@ -299,5 +299,17 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2024-12-20 18:54:22 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-20 18:54:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
