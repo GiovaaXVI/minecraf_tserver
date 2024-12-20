@@ -134,6 +134,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2024-12-20 19:20:11 +0000",
+      "minecraft:beach": "2024-12-20 19:31:58 +0000",
       "minecraft:sparse_jungle": "2024-12-20 18:09:58 +0000",
       "minecraft:river": "2024-12-20 18:11:59 +0000",
       "minecraft:dripstone_caves": "2024-12-20 18:17:36 +0000",
@@ -169,6 +170,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-20 19:25:14 +0000",
       "bread": "2024-12-20 18:27:55 +0000",
       "melon_slice": "2024-12-20 18:13:39 +0000"
     },
@@ -313,6 +315,12 @@
       "in_better_spider_dungeon": "2024-12-20 19:14:31 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-20 19:25:54 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/chain_death": {
     "criteria": {
