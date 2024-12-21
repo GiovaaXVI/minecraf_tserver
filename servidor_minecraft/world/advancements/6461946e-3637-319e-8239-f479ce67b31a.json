@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2024-12-21 07:48:51 +0000",
       "minecraft:bamboo_jungle": "2024-12-20 20:03:47 +0000",
       "minecraft:savanna_plateau": "2024-12-20 18:09:49 +0000",
       "minecraft:beach": "2024-12-20 19:34:37 +0000",
@@ -10,6 +11,7 @@
       "minecraft:desert": "2024-12-20 18:04:42 +0000",
       "minecraft:jungle": "2024-12-20 17:34:44 +0000",
       "minecraft:warm_ocean": "2024-12-20 18:05:48 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-21 07:30:53 +0000",
       "minecraft:deep_dark": "2024-12-21 06:18:25 +0000",
       "minecraft:savanna": "2024-12-20 18:13:44 +0000",
       "minecraft:plains": "2024-12-20 18:07:55 +0000"
@@ -306,6 +308,7 @@
       "minecraft:piglin_brute": "2024-12-21 01:50:12 +0000",
       "minecraft:witch": "2024-12-21 00:22:22 +0000",
       "minecraft:wither_skeleton": "2024-12-21 01:35:27 +0000",
+      "minecraft:husk": "2024-12-21 07:20:22 +0000",
       "minecraft:cave_spider": "2024-12-21 05:57:47 +0000",
       "minecraft:stray": "2024-12-20 18:56:35 +0000",
       "minecraft:zombie": "2024-12-20 18:52:04 +0000"
@@ -366,6 +369,7 @@
       "bread": "2024-12-20 19:33:26 +0000",
       "golden_apple": "2024-12-21 01:36:29 +0000",
       "melon_slice": "2024-12-20 19:28:54 +0000",
+      "cooked_chicken": "2024-12-21 07:00:55 +0000",
       "carrot": "2024-12-21 00:16:35 +0000"
     },
     "done": false
@@ -570,6 +574,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2024-12-21 06:58:31 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2024-12-21 06:18:25 +0000"
@@ -594,9 +604,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-21 07:54:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_true_sight": {
     "criteria": {
       "has_magic_scroll": "2024-12-21 06:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-21 07:01:33 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-21 07:28:31 +0000"
     },
     "done": true
   },
@@ -612,6 +640,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-21 07:50:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_familiar_receptacle": "2024-12-21 06:16:43 +0000"
@@ -621,6 +655,18 @@
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_grottoceratops": "2024-12-21 06:08:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2024-12-21 07:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-21 07:01:33 +0000"
     },
     "done": true
   },
