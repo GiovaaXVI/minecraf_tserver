@@ -719,3 +719,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 06:39:35.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Umvuthi, the Sunbird
 [21Dec2024 06:39:35.633] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
 [21Dec2024 06:39:49.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [Praise the Sun]
+[21Dec2024 06:50:59.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [I see clearly now]

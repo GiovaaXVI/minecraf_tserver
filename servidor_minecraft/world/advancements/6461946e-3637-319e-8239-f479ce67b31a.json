@@ -594,6 +594,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-21 06:50:59 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nowhowdo_iconfigurethiscrap": {
     "criteria": {
       "nowhowdo_iconfigurethiscrap": "2024-12-21 06:21:49 +0000"
