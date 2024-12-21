@@ -7,6 +7,7 @@
       "minecraft:badlands": "2024-12-21 09:22:49 +0000",
       "minecraft:savanna_plateau": "2024-12-20 18:09:49 +0000",
       "minecraft:beach": "2024-12-20 19:34:37 +0000",
+      "minecraft:dark_forest": "2024-12-21 16:35:55 +0000",
       "minecraft:sparse_jungle": "2024-12-20 17:33:58 +0000",
       "minecraft:river": "2024-12-20 17:34:35 +0000",
       "minecraft:lukewarm_ocean": "2024-12-21 08:58:49 +0000",
@@ -16,7 +17,9 @@
       "minecraft:lush_caves": "2024-12-21 09:00:53 +0000",
       "minecraft:desert": "2024-12-20 18:04:42 +0000",
       "minecraft:jungle": "2024-12-20 17:34:44 +0000",
+      "minecraft:ocean": "2024-12-21 16:33:21 +0000",
       "minecraft:warm_ocean": "2024-12-20 18:05:48 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-21 16:39:27 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 07:30:53 +0000",
       "minecraft:deep_dark": "2024-12-21 06:18:25 +0000",
       "minecraft:savanna": "2024-12-20 18:13:44 +0000",
@@ -374,6 +377,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-21 16:38:50 +0000",
       "apple": "2024-12-20 20:03:45 +0000",
       "bread": "2024-12-20 19:33:26 +0000",
       "golden_apple": "2024-12-21 01:36:29 +0000",
