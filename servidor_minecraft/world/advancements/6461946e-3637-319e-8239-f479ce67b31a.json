@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2024-12-20 20:03:47 +0000",
       "minecraft:savanna_plateau": "2024-12-20 18:09:49 +0000",
       "minecraft:beach": "2024-12-20 19:34:37 +0000",
       "minecraft:sparse_jungle": "2024-12-20 17:33:58 +0000",
@@ -284,21 +285,9 @@
     },
     "done": true
   },
-  "undead_revamp2:daddy": {
-    "criteria": {
-      "daddy": "2024-12-20 19:41:08 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2024-12-20 18:51:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2024-12-20 19:26:05 +0000"
     },
     "done": true
   },
@@ -316,28 +305,33 @@
     },
     "done": false
   },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-20 19:15:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-20 18:52:04 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "bread": "2024-12-20 19:33:26 +0000",
-      "melon_slice": "2024-12-20 19:28:54 +0000"
+      "coded_trigger": "2024-12-20 18:57:48 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-20 19:15:56 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2024-12-20 19:19:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-20 19:19:11 +0000"
     },
     "done": true
   },
@@ -353,15 +347,41 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "coded_trigger": "2024-12-20 18:57:48 +0000"
+      "bestiary": "2024-12-20 19:26:05 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2024-12-20 19:19:11 +0000"
+      "apple": "2024-12-20 20:03:45 +0000",
+      "bread": "2024-12-20 19:33:26 +0000",
+      "melon_slice": "2024-12-20 19:28:54 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy": "2024-12-20 19:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-20 19:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-20 20:00:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 23:57:25 +0000"
     },
     "done": true
   },
