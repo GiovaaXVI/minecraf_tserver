@@ -140,6 +140,7 @@
       "minecraft:sparse_jungle": "2024-12-20 18:04:07 +0000",
       "minecraft:river": "2024-12-20 18:09:07 +0000",
       "minecraft:lukewarm_ocean": "2024-12-20 19:08:01 +0000",
+      "minecraft:stony_shore": "2024-12-21 09:35:30 +0000",
       "minecraft:dripstone_caves": "2024-12-20 18:12:04 +0000",
       "minecraft:forest": "2024-12-20 19:09:56 +0000",
       "minecraft:desert": "2024-12-20 18:05:28 +0000",
@@ -228,6 +229,7 @@
       "chicken": "2024-12-20 18:56:05 +0000",
       "cooked_beef": "2024-12-20 18:19:06 +0000",
       "beef": "2024-12-20 18:13:04 +0000",
+      "apple": "2024-12-21 09:39:28 +0000",
       "rabbit": "2024-12-20 18:56:12 +0000",
       "bread": "2024-12-21 08:01:54 +0000",
       "melon_slice": "2024-12-20 19:14:05 +0000"
@@ -354,78 +356,6 @@
       "shot_arrow": "2024-12-21 09:06:30 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 09:35:29 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
