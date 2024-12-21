@@ -650,3 +650,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 05:49:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [I'm not sugar coating it]
 [21Dec2024 05:54:11.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Town of Bedrock]
 [21Dec2024 05:54:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Tree Stars!!!]
+[21Dec2024 05:59:27.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx died
+[21Dec2024 05:59:27.290] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:59:50.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [Bone Crusher]
+[21Dec2024 06:00:30.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Sucker
+[21Dec2024 06:00:30.695] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:00:52.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Sucker
+[21Dec2024 06:00:53.017] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:01:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [Nuh UH!]
+[21Dec2024 06:01:58.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Hunter
+[21Dec2024 06:01:58.935] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:03:08.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx died whilst trying to escape The Spitter
+[21Dec2024 06:03:09.049] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:03:11.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Disconnected
+[21Dec2024 06:03:11.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[21Dec2024 06:03:49.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.21.235.146:43537] logged in with entity id 25464 at (241.5, 73.0, 908.5)
+[21Dec2024 06:03:49.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[21Dec2024 06:04:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[21Dec2024 06:04:59.829] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

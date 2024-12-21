@@ -305,6 +305,7 @@
       "minecraft:piglin_brute": "2024-12-21 01:50:12 +0000",
       "minecraft:witch": "2024-12-21 00:22:22 +0000",
       "minecraft:wither_skeleton": "2024-12-21 01:35:27 +0000",
+      "minecraft:cave_spider": "2024-12-21 05:57:47 +0000",
       "minecraft:stray": "2024-12-20 18:56:35 +0000",
       "minecraft:zombie": "2024-12-20 18:52:04 +0000"
     },
@@ -526,6 +527,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-21 06:02:55 +0000",
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
+    },
+    "done": false
+  },
   "incendium:ash_barrens/conquer_castle": {
     "criteria": {
       "requirement": "2024-12-21 05:25:08 +0000"
@@ -535,6 +609,30 @@
   "luminousworld:crab_rave": {
     "criteria": {
       "crab_rave": "2024-12-21 05:41:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2024-12-21 05:54:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 05:59:50 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood": "2024-12-21 06:01:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-21 05:54:11 +0000"
     },
     "done": true
   },
