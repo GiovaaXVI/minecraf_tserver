@@ -668,3 +668,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 06:03:49.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
 [21Dec2024 06:04:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
 [21Dec2024 06:04:59.829] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:05:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx walked into fire whilst fighting The Moonflower
+[21Dec2024 06:05:18.892] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:08:16.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Life Finds A Way]
+[21Dec2024 06:08:28.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Re-Extinct]
+[21Dec2024 06:08:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Tastes Like Chicken]
+[21Dec2024 06:11:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Vallumraptor
+[21Dec2024 06:11:13.481] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:12:16.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx went up in flames
+[21Dec2024 06:12:16.983] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:13:25.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Vallumraptor
+[21Dec2024 06:13:25.201] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:14:33.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx liquified to Fanta juice
+[21Dec2024 06:14:33.984] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:15:11.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx liquified to Fanta juice
+[21Dec2024 06:15:11.397] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:16:43.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Your First Receptacle]
+[21Dec2024 06:16:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was squashed by a falling anvil
+[21Dec2024 06:16:46.038] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:18:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by The Moonflower
+[21Dec2024 06:18:30.364] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:19:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx drowned whilst trying to escape The Moonflower
+[21Dec2024 06:19:14.702] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:19:48.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[21Dec2024 06:19:48.421] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:20:31.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[21Dec2024 06:20:31.662] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:20:52.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[21Dec2024 06:20:52.340] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:21:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[21Dec2024 06:21:15.249] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:21:49.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [Now how do I configure this crappy mod???]
+[21Dec2024 06:21:49.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[21Dec2024 06:21:49.567] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:23:21.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx drowned whilst trying to escape The Moonflower
+[21Dec2024 06:23:21.085] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:23:49.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[21Dec2024 06:23:49.289] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:24:57.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx died
+[21Dec2024 06:24:57.486] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:28:04.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [Well, that was disgusting]
+[21Dec2024 06:37:23.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[21Dec2024 06:37:23.386] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:38:11.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[21Dec2024 06:38:11.809] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:38:47.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[21Dec2024 06:38:47.385] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:39:06.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[21Dec2024 06:39:06.710] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:39:35.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[21Dec2024 06:39:35.633] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 06:39:49.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [Praise the Sun]

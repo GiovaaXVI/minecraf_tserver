@@ -10,6 +10,7 @@
       "minecraft:desert": "2024-12-20 18:04:42 +0000",
       "minecraft:jungle": "2024-12-20 17:34:44 +0000",
       "minecraft:warm_ocean": "2024-12-20 18:05:48 +0000",
+      "minecraft:deep_dark": "2024-12-21 06:18:25 +0000",
       "minecraft:savanna": "2024-12-20 18:13:44 +0000",
       "minecraft:plains": "2024-12-20 18:07:55 +0000"
     },
@@ -527,79 +528,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-21 06:02:55 +0000",
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 06:02:22 +0000"
-    },
-    "done": false
-  },
   "incendium:ash_barrens/conquer_castle": {
     "criteria": {
       "requirement": "2024-12-21 05:25:08 +0000"
@@ -609,6 +537,18 @@
   "luminousworld:crab_rave": {
     "criteria": {
       "crab_rave": "2024-12-21 05:41:31 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-12-21 05:49:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-21 05:54:11 +0000"
     },
     "done": true
   },
@@ -630,15 +570,51 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/limestone": {
+  "deeperdarker:main/root": {
     "criteria": {
-      "limestone": "2024-12-21 05:54:11 +0000"
+      "deep_dark": "2024-12-21 06:18:25 +0000"
     },
     "done": true
   },
-  "undead_revamp2:sugarcoat": {
+  "undead_revamp2:nowyouknow": {
     "criteria": {
-      "sugarcoat": "2024-12-21 05:49:32 +0000"
+      "nowyouknow": "2024-12-21 06:28:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_grottoceratops": "2024-12-21 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-21 06:08:32 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowhowdo_iconfigurethiscrap": {
+    "criteria": {
+      "nowhowdo_iconfigurethiscrap": "2024-12-21 06:21:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-21 06:39:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-12-21 06:16:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-21 06:08:28 +0000"
     },
     "done": true
   },
