@@ -613,3 +613,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 11:46:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [You Are A Pirate]
 [21Dec2024 11:49:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx burned to death
 [21Dec2024 11:49:51.664] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 11:51:26.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [Easy Opening]
+[21Dec2024 11:52:06.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Disconnected
+[21Dec2024 11:52:06.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
