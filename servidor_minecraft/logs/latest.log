@@ -1,2 +1,8 @@
 [21Dec2024 00:01:08.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.21.235.146:42357] logged in with entity id 1970 at (-977.0180761995691, 67.45088151060379, 480.91143633398065)
 [21Dec2024 00:01:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[21Dec2024 00:06:44.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Suit Up]
+[21Dec2024 00:08:52.385] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2894, l='ServerLevel[world]', x=-772.62, y=76.00, z=661.78] died, message: 'Farmer was slain by Komodo Dragon'
+[21Dec2024 00:11:15.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by Umvuthana
+[21Dec2024 00:11:15.621] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:15:08.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[21Dec2024 00:15:08.267] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
