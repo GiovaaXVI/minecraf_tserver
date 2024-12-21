@@ -1278,3 +1278,201 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 08:37:05.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
 [21Dec2024 08:37:05.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx moved wrongly!
 [21Dec2024 08:37:05.055] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:37:40.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Once Upon a Cave]
+[21Dec2024 08:38:29.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[21Dec2024 08:38:29.135] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:39:59.888] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 08:39:59.889] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 08:40:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[21Dec2024 08:40:27.644] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:41:00.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 08:41:20.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[21Dec2024 08:41:20.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ferrous Wroughtnaut
+[21Dec2024 08:41:20.642] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:41:20.644] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:41:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 08:42:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ferrous Wroughtnaut
+[21Dec2024 08:42:47.135] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:43:20.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[21Dec2024 08:43:20.348] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:44:03.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ferrous Wroughtnaut
+[21Dec2024 08:44:03.552] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:44:09.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[21Dec2024 08:44:09.136] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:46:27.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[21Dec2024 08:49:41.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 08:50:43.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[21Dec2024 08:51:04.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[21Dec2024 08:51:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [This Must be a Sign!]
+[21Dec2024 08:52:00.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[21Dec2024 08:52:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was energized by Lightning Dragon
+[21Dec2024 08:52:31.234] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:52:41.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Lightning Dragon
+[21Dec2024 08:52:41.327] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:52:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Lightning Dragon
+[21Dec2024 08:52:47.887] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:53:03.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was struck by lightning whilst fighting Lightning Dragon
+[21Dec2024 08:53:03.747] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:53:06.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was energized by Lightning Dragon
+[21Dec2024 08:53:06.631] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:53:31.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was energized by Lightning Dragon
+[21Dec2024 08:53:31.580] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:53:44.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Lightning Dragon
+[21Dec2024 08:53:44.633] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:53:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Lightning Dragon
+[21Dec2024 08:53:52.780] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:54:00.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122665, l='ServerLevel[world]', x=2131.50, y=78.00, z=3800.50]
+[21Dec2024 08:54:06.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was energized by Lightning Dragon
+[21Dec2024 08:54:06.934] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:54:12.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Lightning Dragon
+[21Dec2024 08:54:12.240] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:54:21.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was struck with lightning by Lightning Dragon
+[21Dec2024 08:54:21.033] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:54:24.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/123550, l='ServerLevel[world]', x=2124.50, y=79.00, z=3828.50]
+[21Dec2024 08:54:38.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was energized by Lightning Dragon
+[21Dec2024 08:54:38.346] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:54:42.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was struck with lightning by Lightning Dragon
+[21Dec2024 08:54:42.143] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:55:31.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was struck with lightning by Lightning Dragon
+[21Dec2024 08:55:31.280] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:55:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Lightning Dragon
+[21Dec2024 08:55:33.456] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:56:13.414] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/125277, l='ServerLevel[world]', x=2125.50, y=78.00, z=3805.50]
+[21Dec2024 08:56:31.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/125386, l='ServerLevel[world]', x=2132.50, y=78.00, z=3799.50]
+[21Dec2024 08:56:41.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/125424, l='ServerLevel[world]', x=2127.50, y=78.00, z=3803.50]
+[21Dec2024 08:57:07.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/125552, l='ServerLevel[world]', x=2167.50, y=70.00, z=3765.50]
+[21Dec2024 08:57:22.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/125592, l='ServerLevel[world]', x=2156.50, y=71.00, z=3885.50]
+[21Dec2024 08:58:13.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/126384, l='ServerLevel[world]', x=2167.50, y=70.00, z=3766.50]
+[21Dec2024 08:58:31.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 08:59:24.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/126736, l='ServerLevel[world]', x=2173.50, y=78.00, z=3894.50]
+[21Dec2024 08:59:37.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/126857, l='ServerLevel[world]', x=2141.50, y=75.00, z=3934.50]
+[21Dec2024 09:00:01.116] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/126977, l='ServerLevel[world]', x=2175.50, y=72.00, z=3924.50]
+[21Dec2024 09:00:12.913] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127020, l='ServerLevel[world]', x=2168.50, y=70.00, z=3765.50]
+[21Dec2024 09:00:14.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127034, l='ServerLevel[world]', x=2155.50, y=75.00, z=3886.50]
+[21Dec2024 09:00:16.413] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127041, l='ServerLevel[world]', x=2142.50, y=75.00, z=3934.50]
+[21Dec2024 09:00:23.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127069, l='ServerLevel[world]', x=2147.50, y=77.00, z=3905.50]
+[21Dec2024 09:00:41.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127145, l='ServerLevel[world]', x=2125.50, y=78.00, z=3804.50]
+[21Dec2024 09:01:00.419] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127352, l='ServerLevel[world]', x=2126.50, y=79.00, z=3830.50]
+[21Dec2024 09:01:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 09:01:51.514] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127775, l='ServerLevel[world]', x=2146.50, y=77.00, z=3903.50]
+[21Dec2024 09:02:18.513] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127857, l='ServerLevel[world]', x=2174.50, y=78.00, z=3895.50]
+[21Dec2024 09:02:26.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127872, l='ServerLevel[world]', x=2127.50, y=78.00, z=3805.50]
+[21Dec2024 09:02:48.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127977, l='ServerLevel[world]', x=2183.50, y=74.00, z=3876.50]
+[21Dec2024 09:02:50.264] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127988, l='ServerLevel[world]', x=2133.50, y=78.00, z=3800.50]
+[21Dec2024 09:02:52.414] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128004, l='ServerLevel[world]', x=2141.50, y=75.00, z=3933.50]
+[21Dec2024 09:03:13.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128194, l='ServerLevel[world]', x=2131.50, y=76.00, z=3821.50]
+[21Dec2024 09:03:20.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2208, y=61, z=3806} BlockPos{x=2207, y=57, z=3806}
+[21Dec2024 09:03:20.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2206, y=60, z=3807} BlockPos{x=2207, y=60, z=3806}
+[21Dec2024 09:03:21.164] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128267, l='ServerLevel[world]', x=2126.50, y=79.00, z=3829.50]
+[21Dec2024 09:03:26.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Best Friends Forever]
+[21Dec2024 09:03:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Free Willy]
+[21Dec2024 09:03:49.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128409, l='ServerLevel[world]', x=2173.50, y=72.00, z=3862.50]
+[21Dec2024 09:03:56.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128479, l='ServerLevel[world]', x=2174.50, y=78.00, z=3894.50]
+[21Dec2024 09:06:30.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Take Aim]
+[21Dec2024 09:06:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Fire Dragon
+[21Dec2024 09:06:52.039] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 09:06:53.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was impaled by Marauder
+[21Dec2024 09:06:53.101] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 09:07:16.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Sea Serpent
+[21Dec2024 09:07:16.590] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 09:08:17.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Sea? Not a Problem]
+[21Dec2024 09:09:01.413] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/132937, l='ServerLevel[world]', x=2450.50, y=75.00, z=3703.50]
+[21Dec2024 09:09:06.512] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/132985, l='ServerLevel[world]', x=2324.50, y=72.00, z=3675.50]
+[21Dec2024 09:09:35.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/133092, l='ServerLevel[world]', x=2236.50, y=69.00, z=3669.50]
+[21Dec2024 09:09:40.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/133120, l='ServerLevel[world]', x=2425.50, y=76.00, z=3699.50]
+[21Dec2024 09:09:53.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/133232, l='ServerLevel[world]', x=2421.50, y=73.00, z=3718.50]
+[21Dec2024 09:09:58.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/133264, l='ServerLevel[world]', x=2307.50, y=76.00, z=3674.50]
+[21Dec2024 09:10:35.415] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/133479, l='ServerLevel[world]', x=2322.50, y=72.00, z=3676.50]
+[21Dec2024 09:10:49.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[21Dec2024 09:13:01.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx was kicked for floating too long!
+[21Dec2024 09:13:01.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Flying is not enabled on this server
+[21Dec2024 09:13:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[21Dec2024 09:13:01.680] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 09:13:16.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx lost connection: Timed out
+[21Dec2024 09:13:16.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx left the game
+[21Dec2024 09:14:02.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicolasxpazx[/127.35.226.223:49493] logged in with entity id 136200 at (2494.6558286774584, 65.0, 4046.300000011921)
+[21Dec2024 09:14:02.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx joined the game
+[21Dec2024 09:14:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Mysterious Gift]
+[21Dec2024 09:14:27.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.35.226.223:38367] logged in with entity id 136882 at (2480.8187845138805, 65.25220334025373, 4036.4290316523884)
+[21Dec2024 09:14:27.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[21Dec2024 09:14:51.463] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/136992, l='ServerLevel[world]', x=2584.50, y=69.00, z=4054.50]
+[21Dec2024 09:14:59.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/137019, l='ServerLevel[world]', x=2567.50, y=70.00, z=3998.50]
+[21Dec2024 09:15:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Lightning Dragon
+[21Dec2024 09:15:29.935] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 09:15:47.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/137614, l='ServerLevel[world]', x=2584.50, y=69.00, z=4056.50]
+[21Dec2024 09:15:55.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/137741, l='ServerLevel[world]', x=2529.50, y=74.00, z=3949.50]
+[21Dec2024 09:16:04.414] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/137781, l='ServerLevel[world]', x=2388.50, y=70.00, z=4080.50]
+[21Dec2024 09:16:43.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138070, l='ServerLevel[world]', x=2579.50, y=73.00, z=4022.50]
+[21Dec2024 09:16:43.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138075, l='ServerLevel[world]', x=2569.50, y=69.00, z=4033.50]
+[21Dec2024 09:16:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Set own game mode to Creative Mode]
+[21Dec2024 09:17:11.915] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138187, l='ServerLevel[world]', x=2580.50, y=73.00, z=4022.50]
+[21Dec2024 09:17:22.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138228, l='ServerLevel[world]', x=2519.50, y=77.00, z=3943.50]
+[21Dec2024 09:17:26.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138241, l='ServerLevel[world]', x=2540.50, y=74.00, z=4137.50]
+[21Dec2024 09:17:30.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138257, l='ServerLevel[world]', x=2566.50, y=73.00, z=4033.50]
+[21Dec2024 09:17:40.565] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138302, l='ServerLevel[world]', x=2568.50, y=72.00, z=3992.50]
+[21Dec2024 09:17:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Mother of Dragons]
+[21Dec2024 09:17:51.467] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138335, l='ServerLevel[world]', x=2567.50, y=70.00, z=4000.50]
+[21Dec2024 09:17:55.515] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138342, l='ServerLevel[world]', x=2568.50, y=72.00, z=3993.50]
+[21Dec2024 09:18:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Set own game mode to Survival Mode]
+[21Dec2024 09:18:10.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138406, l='ServerLevel[world]', x=2569.50, y=72.00, z=3992.50]
+[21Dec2024 09:18:15.115] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138435, l='ServerLevel[world]', x=2414.50, y=70.00, z=4078.50]
+[21Dec2024 09:18:18.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138461, l='ServerLevel[world]', x=2566.50, y=73.00, z=4035.50]
+[21Dec2024 09:18:28.916] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138523, l='ServerLevel[world]', x=2565.50, y=73.00, z=4035.50]
+[21Dec2024 09:18:29.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Mother of Dragons]
+[21Dec2024 09:18:43.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138563, l='ServerLevel[world]', x=2566.50, y=70.00, z=3999.50]
+[21Dec2024 09:18:53.514] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138590, l='ServerLevel[world]', x=2489.50, y=73.00, z=3914.50]
+[21Dec2024 09:19:06.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138666, l='ServerLevel[world]', x=2579.50, y=73.00, z=4020.50]
+[21Dec2024 09:19:16.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138729, l='ServerLevel[world]', x=2585.50, y=69.00, z=4056.50]
+[21Dec2024 09:19:24.113] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138815, l='ServerLevel[world]', x=2568.50, y=70.00, z=3999.50]
+[21Dec2024 09:19:32.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138863, l='ServerLevel[world]', x=2539.50, y=74.00, z=4136.50]
+[21Dec2024 09:19:45.814] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/138978, l='ServerLevel[world]', x=2531.50, y=74.00, z=3950.50]
+[21Dec2024 09:19:50.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/139038, l='ServerLevel[world]', x=2489.50, y=73.00, z=3912.50]
+[21Dec2024 09:20:23.515] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/139310, l='ServerLevel[world]', x=2564.50, y=73.00, z=4033.50]
+[21Dec2024 09:20:33.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/139358, l='ServerLevel[world]', x=2413.50, y=70.00, z=4080.50]
+[21Dec2024 09:20:50.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/139440, l='ServerLevel[world]', x=2435.50, y=74.00, z=4076.50]
+[21Dec2024 09:21:03.522] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 09:21:03.522] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 09:21:05.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/139615, l='ServerLevel[world]', x=2538.50, y=74.00, z=4136.50]
+[21Dec2024 09:23:02.531] [pool-6-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=2555, y=69, z=4597}
+[21Dec2024 09:23:03.361] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2555, y=69, z=4597} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[21Dec2024 09:23:03.361] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2555, y=69, z=4597}
+[21Dec2024 09:23:58.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Sir Pumpkinhead
+[21Dec2024 09:23:58.635] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 09:25:12.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Mr. Pumpkin
+[21Dec2024 09:25:12.493] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 09:25:24.542] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 09:25:24.543] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 09:25:24.607] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[21Dec2024 09:26:17.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was shot by Pumpkinhead
+[21Dec2024 09:26:18.082] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 09:26:30.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2310, y=49, z=4675} BlockPos{x=2310, y=47, z=4674}
+[21Dec2024 09:27:02.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8266001737460037
+[21Dec2024 09:27:02.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.7337921581184688
+[21Dec2024 09:27:03.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.5847974490602605
+[21Dec2024 09:27:04.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.5136109183589115
+[21Dec2024 09:27:09.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8090922391808548
+[21Dec2024 09:27:10.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8090922391808548
+[21Dec2024 09:27:10.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8152451044832045
+[21Dec2024 09:27:10.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8252115431374043
+[21Dec2024 09:27:11.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.4219183028255125
+[21Dec2024 09:27:13.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8246085670692828
+[21Dec2024 09:27:13.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8229400033998401
+[21Dec2024 09:27:14.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8224663821034722
+[21Dec2024 09:27:16.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.5812813132722895
+[21Dec2024 09:27:18.411] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[21Dec2024 09:27:19.059] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[21Dec2024 09:27:20.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.27960104734756897
+[21Dec2024 09:27:20.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.2454026432542378
+[21Dec2024 09:27:20.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.0749094984872924
+[21Dec2024 09:27:20.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.9004206233430523
+[21Dec2024 09:27:20.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.74410094506311
+[21Dec2024 09:27:20.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.6247003591124667
+[21Dec2024 09:27:20.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.5378624125969509
+[21Dec2024 09:27:22.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.7882900360399859
+[21Dec2024 09:27:22.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.7882900360399859
+[21Dec2024 09:27:22.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.81091588686139
+[21Dec2024 09:27:22.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.81091588686139
+[21Dec2024 09:27:25.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.7929039109892844
+[21Dec2024 09:27:25.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8163664365212627
+[21Dec2024 09:27:25.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8163664365212627
+[21Dec2024 09:27:34.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.5917647473326234
