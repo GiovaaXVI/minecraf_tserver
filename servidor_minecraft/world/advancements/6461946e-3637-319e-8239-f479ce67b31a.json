@@ -532,5 +532,17 @@
     },
     "done": true
   },
+  "luminousworld:crab_rave": {
+    "criteria": {
+      "crab_rave": "2024-12-21 05:41:31 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-12-21 05:49:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
