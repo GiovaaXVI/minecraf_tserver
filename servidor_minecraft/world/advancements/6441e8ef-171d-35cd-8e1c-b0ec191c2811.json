@@ -357,9 +357,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "from_undead": "2024-12-21 09:31:22 +0000"
+      "coded_trigger": "2024-12-21 09:14:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-21 09:18:29 +0000"
     },
     "done": true
   },
@@ -375,15 +381,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "egg": "2024-12-21 09:18:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mysterious_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 09:14:02 +0000"
+      "from_undead": "2024-12-21 09:31:22 +0000"
     },
     "done": true
   },
