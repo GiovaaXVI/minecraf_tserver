@@ -615,3 +615,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 05:22:49.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/1516, l='ServerLevel[world]', x=71.13, y=36.00, z=16.07] died: Piglin Knight was slain by Noxxxx
 [21Dec2024 05:23:19.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Blacksmith
 [21Dec2024 05:23:19.493] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:24:00.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Blacksmith'/3584, l='ServerLevel[world]', x=80.54, y=36.00, z=21.09] died: Piglin Blacksmith was slain by Noxxxx
+[21Dec2024 05:25:06.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx burned to death
+[21Dec2024 05:25:07.054] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:25:08.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [The Conqueror]
+[21Dec2024 05:27:09.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/5363, l='ServerLevel[world]', x=175.76, y=64.00, z=-33.50] died: Headless Warrior was shot by Piglin
+[21Dec2024 05:27:58.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5153, l='ServerLevel[world]', x=83.49, y=-20.00, z=-21.44] died: Restless Spirit was killed
+[21Dec2024 05:28:26.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5182, l='ServerLevel[world]', x=64.32, y=-20.00, z=-11.38] died: Restless Spirit was killed
+[21Dec2024 05:28:32.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/5480, l='ServerLevel[world]', x=151.11, y=76.00, z=-35.50] died: Headless Warrior was shot by Piglin
+[21Dec2024 05:29:41.925] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 05:29:41.926] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 05:29:41.926] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 05:29:41.926] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 05:29:41.926] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 05:30:10.279] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/4810, l='ServerLevel[world]', x=113.77, y=45.00, z=-49.47] died: Piglin Paratrooper was slain by Headless Warrior
+[21Dec2024 05:30:17.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/4842, l='ServerLevel[world]', x=80.61, y=75.00, z=-46.52] died: Piglin Archer suffocated in a wall
+[21Dec2024 05:30:48.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/6047, l='ServerLevel[world]', x=127.40, y=62.00, z=-52.08] died: Headless Warrior was slain by Piglin Archer
+[21Dec2024 05:30:51.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Paratrooper
+[21Dec2024 05:30:52.010] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:31:04.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Knight
+[21Dec2024 05:31:04.772] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:31:13.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Paratrooper
+[21Dec2024 05:31:13.961] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:32:10.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Paratrooper
+[21Dec2024 05:32:10.068] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:32:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by Piglin Paratrooper
+[21Dec2024 05:32:24.092] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

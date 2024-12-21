@@ -526,5 +526,11 @@
     },
     "done": true
   },
+  "incendium:ash_barrens/conquer_castle": {
+    "criteria": {
+      "requirement": "2024-12-21 05:25:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
