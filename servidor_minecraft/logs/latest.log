@@ -150,3 +150,47 @@
 [21Dec2024 01:20:53.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Masquerade]
 [21Dec2024 01:22:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
 [21Dec2024 01:24:31.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:28:58.969] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[21Dec2024 01:28:58.970] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=25, z=-365}
+[21Dec2024 01:28:58.970] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[21Dec2024 01:29:03.254] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[21Dec2024 01:29:03.254] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[21Dec2024 01:29:03.254] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[21Dec2024 01:29:03.255] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-335}
+[21Dec2024 01:29:03.255] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[21Dec2024 01:29:31.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[21Dec2024 01:29:49.563] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[21Dec2024 01:29:49.564] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[21Dec2024 01:29:49.564] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[21Dec2024 01:30:10.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:30:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[21Dec2024 01:30:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by The Moonflower
+[21Dec2024 01:30:59.423] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:31:29.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Take Aim]
+[21Dec2024 01:33:08.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [We Need to Go Deeper]
+[21Dec2024 01:33:08.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Incendium]
+[21Dec2024 01:33:13.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13376ms or 267 ticks behind
+[21Dec2024 01:33:14.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [A Terrible Fortress]
+[21Dec2024 01:33:14.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Hellish Paradise]
+[21Dec2024 01:33:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Strange Biomes]
+[21Dec2024 01:33:16.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [We Need to Go Deeper]
+[21Dec2024 01:33:16.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Incendium]
+[21Dec2024 01:33:16.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [A Terrible Fortress]
+[21Dec2024 01:33:16.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Hellish Paradise]
+[21Dec2024 01:33:16.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Strange Biomes]
+[21Dec2024 01:33:18.288] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[21Dec2024 01:33:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [In the Hall of the Piglin King]
+[21Dec2024 01:33:52.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx fell from a high place
+[21Dec2024 01:33:52.800] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:33:53.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/42768, l='ServerLevel[world]', x=65.30, y=62.00, z=-5.59] died: Piglin Paratrooper tried to swim in lava
+[21Dec2024 01:33:53.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/42769, l='ServerLevel[world]', x=65.30, y=62.00, z=-4.59] died: Piglin Paratrooper tried to swim in lava
+[21Dec2024 01:34:03.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
+[21Dec2024 01:34:05.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:34:18.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Ancient Battlefield]
+[21Dec2024 01:34:22.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Ancient Battlefield]
+[21Dec2024 01:35:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Straddle My Ol' Saddle]
+[21Dec2024 01:35:06.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx withered away whilst fighting Straddler
+[21Dec2024 01:35:06.256] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:35:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Splintering II]
+[21Dec2024 01:35:46.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [A Flaming Sword]
+[21Dec2024 01:36:30.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [A Flaming Sword]
