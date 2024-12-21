@@ -89,3 +89,64 @@
 [21Dec2024 00:42:34.479] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25247, l='ServerLevel[world]', x=345.50, y=71.00, z=1113.50]
 [21Dec2024 00:43:08.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Disconnected
 [21Dec2024 00:43:08.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[21Dec2024 00:53:15.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.21.235.146:34831] logged in with entity id 25393 at (355.4871599250228, 66.0, 1111.5961945855413)
+[21Dec2024 00:53:15.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[21Dec2024 00:53:33.031] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25763, l='ServerLevel[world]', x=343.50, y=71.00, z=1113.50]
+[21Dec2024 00:53:55.928] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25801, l='ServerLevel[world]', x=350.50, y=76.00, z=1019.50]
+[21Dec2024 00:53:58.219] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=26, z=-306}
+[21Dec2024 00:53:58.220] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=26, z=-308}
+[21Dec2024 00:53:58.220] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-310}
+[21Dec2024 00:53:58.293] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=26, z=-306}
+[21Dec2024 00:53:58.293] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=26, z=-308}
+[21Dec2024 00:53:58.293] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-310}
+[21Dec2024 00:53:58.294] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-303}
+[21Dec2024 00:54:06.778] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25962, l='ServerLevel[world]', x=348.50, y=76.00, z=1020.50]
+[21Dec2024 00:54:43.986] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-339}
+[21Dec2024 00:54:43.987] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[21Dec2024 00:54:43.987] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[21Dec2024 00:54:43.987] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-332}
+[21Dec2024 00:54:43.987] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-333}
+[21Dec2024 00:54:43.987] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-334}
+[21Dec2024 00:54:43.988] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-335}
+[21Dec2024 00:54:43.988] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-336}
+[21Dec2024 00:54:45.431] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-332}
+[21Dec2024 00:54:45.431] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-333}
+[21Dec2024 00:54:45.492] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
+[21Dec2024 00:54:45.493] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=30, z=-338}
+[21Dec2024 00:54:45.647] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=36, z=-302}
+[21Dec2024 00:55:44.878] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26479, l='ServerLevel[world]', x=343.50, y=71.00, z=1112.50]
+[21Dec2024 00:56:18.729] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26600, l='ServerLevel[world]', x=331.50, y=75.00, z=1030.50]
+[21Dec2024 00:57:18.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26817, l='ServerLevel[world]', x=332.50, y=75.00, z=1028.50]
+[21Dec2024 00:57:52.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27011, l='ServerLevel[world]', x=343.50, y=71.00, z=1114.50]
+[21Dec2024 00:57:55.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27029, l='ServerLevel[world]', x=348.50, y=76.00, z=1019.50]
+[21Dec2024 00:58:25.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.21.235.146:41629] logged in with entity id 27179 at (68.15237832792677, 61.604228273960615, 554.0429781957696)
+[21Dec2024 00:58:25.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
+[21Dec2024 00:58:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Mysterious Gift]
+[21Dec2024 00:58:57.979] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27756, l='ServerLevel[world]', x=327.50, y=73.00, z=1008.50]
+[21Dec2024 00:59:07.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovanyBy14 lost connection: Disconnected
+[21Dec2024 00:59:07.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 left the game
+[21Dec2024 01:00:18.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28088, l='ServerLevel[world]', x=330.50, y=75.00, z=1029.50]
+[21Dec2024 01:01:29.728] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28295, l='ServerLevel[world]', x=278.50, y=72.00, z=1129.50]
+[21Dec2024 01:01:30.479] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28301, l='ServerLevel[world]', x=276.50, y=72.00, z=1130.50]
+[21Dec2024 01:01:39.428] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28323, l='ServerLevel[world]', x=345.50, y=71.00, z=1114.50]
+[21Dec2024 01:02:08.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28468, l='ServerLevel[world]', x=349.50, y=76.00, z=1019.50]
+[21Dec2024 01:05:06.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.21.235.146:56877] logged in with entity id 29946 at (68.15237832792677, 61.604228273960615, 554.0429781957696)
+[21Dec2024 01:05:06.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
+[21Dec2024 01:08:42.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Zombie
+[21Dec2024 01:08:42.920] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:08:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 withered away whilst fighting Nightmare Stalker
+[21Dec2024 01:08:57.464] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:10:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Nightmare Stalker
+[21Dec2024 01:10:10.162] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:12:17.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Ice Bucket Challenge]
+[21Dec2024 01:14:10.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx fell from a high place
+[21Dec2024 01:14:10.137] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:15:21.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[21Dec2024 01:16:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Ice Bucket Challenge]
+[21Dec2024 01:16:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[21Dec2024 01:18:57.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Umvuthana Raptor
+[21Dec2024 01:18:57.940] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:20:34.976] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=325, y=67, z=1301}
+[21Dec2024 01:20:53.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Masquerade]
+[21Dec2024 01:22:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:24:31.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
