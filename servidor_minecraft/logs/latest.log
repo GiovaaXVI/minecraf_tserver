@@ -1476,3 +1476,75 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 09:27:25.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8163664365212627
 [21Dec2024 09:27:25.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.8163664365212627
 [21Dec2024 09:27:34.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.5917647473326234
+[21Dec2024 09:28:10.499] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[21Dec2024 09:28:10.583] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[21Dec2024 09:28:10.584] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[21Dec2024 09:28:10.585] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[21Dec2024 09:28:10.585] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[21Dec2024 09:28:10.613] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[21Dec2024 09:28:10.613] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[21Dec2024 09:28:10.613] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[21Dec2024 09:28:10.613] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[21Dec2024 09:28:12.298] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[21Dec2024 09:28:12.299] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[21Dec2024 09:28:12.299] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[21Dec2024 09:28:20.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.408542642735938
+[21Dec2024 09:28:20.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.0
+[21Dec2024 09:28:20.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.0
+[21Dec2024 09:28:20.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.0
+[21Dec2024 09:28:21.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.8915776945405014
+[21Dec2024 09:28:21.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.8915776945405014
+[21Dec2024 09:28:21.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.2951623961280347
+[21Dec2024 09:28:21.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.6863435313644004
+[21Dec2024 09:28:21.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.8915776945405014
+[21Dec2024 09:28:21.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.8915776945405014
+[21Dec2024 09:28:21.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.2718893648425365
+[21Dec2024 09:28:21.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.6443447908550297
+[21Dec2024 09:28:21.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.0098710094034686
+[21Dec2024 09:28:21.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 0.3716853306186749
+[21Dec2024 09:28:21.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.7776931216312732
+[21Dec2024 09:28:21.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 3.4167168042695266
+[21Dec2024 09:28:21.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.781605500562364
+[21Dec2024 09:28:21.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 2.1528151152097053
+[21Dec2024 09:28:21.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Noxxxx) moved wrongly! 1.5317022813096628
+[21Dec2024 09:28:39.448] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[21Dec2024 09:28:39.449] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[21Dec2024 09:28:39.449] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[21Dec2024 09:28:39.450] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[21Dec2024 09:28:39.524] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[21Dec2024 09:28:39.525] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[21Dec2024 09:28:39.525] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[21Dec2024 09:28:39.526] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[21Dec2024 09:28:56.361] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[21Dec2024 09:28:56.362] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[21Dec2024 09:28:56.362] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[21Dec2024 09:28:56.362] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[21Dec2024 09:29:15.359] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 09:29:15.359] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 09:29:18.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Tie me to the Mast]
+[21Dec2024 09:29:19.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [The Desert Swimmers]
+[21Dec2024 09:29:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [It Bites]
+[21Dec2024 09:29:58.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 09:31:22.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [A Strange Grave Dust]
+[21Dec2024 09:32:24.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by Hollow
+[21Dec2024 09:32:24.099] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 09:32:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was struck by lightning whilst fighting Ghost
+[21Dec2024 09:32:59.886] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 09:33:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 09:34:38.228] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 09:34:47.825] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 09:35:32.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Dec2024 09:37:05.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx died because of Spider
+[21Dec2024 09:37:05.338] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 09:37:24.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 09:37:48.069] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Dec2024 09:38:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
