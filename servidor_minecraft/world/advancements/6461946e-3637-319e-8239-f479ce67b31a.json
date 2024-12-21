@@ -422,15 +422,21 @@
     },
     "done": true
   },
-  "incendium:quartz_flats/floor_is_tears": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "requirement": "2024-12-21 01:51:24 +0000"
+      "obsidian": "2024-12-21 01:16:29 +0000"
     },
     "done": true
   },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2024-12-21 01:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-21 01:31:29 +0000"
     },
     "done": true
   },
@@ -446,63 +452,21 @@
     },
     "done": true
   },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:quartz_flats": "2024-12-21 01:33:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-21 01:33:08 +0000"
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2024-12-21 01:33:14 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2024-12-21 01:33:14 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2024-12-21 01:35:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-21 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "incendium:withered_forest/root": {
-    "criteria": {
-      "requirement": "2024-12-21 01:34:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-21 01:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-12-21 01:55:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2024-12-21 01:36:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/enter_castle": {
-    "criteria": {
-      "requirement": "2024-12-21 01:33:52 +0000"
     },
     "done": true
   },
@@ -514,15 +478,51 @@
     },
     "done": false
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-21 01:33:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2024-12-21 01:33:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2024-12-21 01:34:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-21 01:35:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-21 01:36:30 +0000"
+    },
+    "done": true
+  },
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2024-12-21 01:40:20 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "incendium:quartz_flats/floor_is_tears": {
     "criteria": {
-      "in_better_fortress": "2024-12-21 01:33:14 +0000"
+      "requirement": "2024-12-21 01:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-21 01:55:34 +0000"
     },
     "done": true
   },
