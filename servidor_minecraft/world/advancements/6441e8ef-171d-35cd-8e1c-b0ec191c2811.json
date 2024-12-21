@@ -250,6 +250,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-21 16:27:58 +0000",
       "minecraft:vindicator": "2024-12-21 07:55:49 +0000",
       "minecraft:spider": "2024-12-20 18:22:04 +0000"
     },
@@ -384,6 +385,18 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-21 09:31:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-21 16:28:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 16:28:08 +0000"
     },
     "done": true
   },

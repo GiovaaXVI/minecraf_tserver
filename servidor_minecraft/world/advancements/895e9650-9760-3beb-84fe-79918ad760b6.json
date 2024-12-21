@@ -133,13 +133,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-21 16:31:21 +0000",
       "minecraft:savanna_plateau": "2024-12-20 19:20:11 +0000",
       "minecraft:beach": "2024-12-20 19:31:58 +0000",
       "minecraft:sparse_jungle": "2024-12-20 18:09:58 +0000",
       "minecraft:river": "2024-12-20 18:11:59 +0000",
+      "minecraft:stony_shore": "2024-12-21 16:32:01 +0000",
       "minecraft:dripstone_caves": "2024-12-20 18:17:36 +0000",
       "minecraft:desert": "2024-12-20 18:13:30 +0000",
       "minecraft:jungle": "2024-12-20 18:12:06 +0000",
+      "minecraft:ocean": "2024-12-21 16:32:02 +0000",
       "minecraft:savanna": "2024-12-20 19:12:48 +0000",
       "minecraft:plains": "2024-12-21 01:08:18 +0000"
     },
@@ -465,6 +468,18 @@
   "incendium:ash_barrens/conquer_castle": {
     "criteria": {
       "requirement": "2024-12-21 16:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-21 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-21 16:29:43 +0000"
     },
     "done": true
   },
