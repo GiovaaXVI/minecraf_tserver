@@ -1175,3 +1175,80 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 07:56:15.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [The Beginning of An Adventure]
 [21Dec2024 07:56:15.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Fallen Sorcerer]
 [21Dec2024 07:56:16.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [It Belongs in a Museum]
+[21Dec2024 07:56:28.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Vex
+[21Dec2024 07:56:28.250] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 07:57:01.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ghost
+[21Dec2024 07:57:01.644] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 07:57:57.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Not Today, Thank You]
+[21Dec2024 07:59:29.959] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[21Dec2024 07:59:29.960] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[21Dec2024 07:59:29.960] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[21Dec2024 07:59:30.100] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[21Dec2024 07:59:30.101] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[21Dec2024 07:59:30.101] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[21Dec2024 07:59:30.101] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[21Dec2024 07:59:30.101] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[21Dec2024 07:59:58.203] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 07:59:58.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx moved too quickly! -15.043535406771525,0.0,13.216720626446659
+[21Dec2024 08:00:17.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Basher
+[21Dec2024 08:00:17.545] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:00:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[21Dec2024 08:00:41.968] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[21Dec2024 08:00:41.969] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[21Dec2024 08:00:41.969] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[21Dec2024 08:00:41.969] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[21Dec2024 08:00:41.969] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[21Dec2024 08:00:45.038] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[21Dec2024 08:00:45.039] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[21Dec2024 08:00:45.039] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[21Dec2024 08:00:45.039] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[21Dec2024 08:00:45.039] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[21Dec2024 08:00:45.040] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[21Dec2024 08:00:45.040] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[21Dec2024 08:00:45.045] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[21Dec2024 08:00:45.045] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[21Dec2024 08:00:45.046] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[21Dec2024 08:00:45.046] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[21Dec2024 08:00:45.046] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[21Dec2024 08:00:45.046] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[21Dec2024 08:00:46.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Vindicator
+[21Dec2024 08:00:46.341] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:01:29.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was impaled by Marauder
+[21Dec2024 08:01:29.458] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:02:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Vindicator
+[21Dec2024 08:02:06.712] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:02:24.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Vindicator
+[21Dec2024 08:02:24.090] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:02:58.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was killed by magic
+[21Dec2024 08:02:58.368] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:11:00.458] [pool-6-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=1963, y=68, z=3717}
+[21Dec2024 08:11:02.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[21Dec2024 08:11:02.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx moved too quickly! -0.664146837736098,-6.270930588052522,8.64649738005346
+[21Dec2024 08:11:36.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Who You Gonna Call?]
+[21Dec2024 08:12:00.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Mutual Aid]
+[21Dec2024 08:12:31.891] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 08:12:31.892] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 08:13:12.318] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[21Dec2024 08:13:14.578] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 08:13:14.578] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 08:13:39.005] [pool-6-thread-6/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1621, y=71, z=4069}
+[21Dec2024 08:13:40.492] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1621, y=71, z=4069} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[21Dec2024 08:13:40.492] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=1621, y=71, z=4069}
+[21Dec2024 08:15:03.521] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[21Dec2024 08:17:24.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[21Dec2024 08:17:58.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [Great minds think alike]
+[21Dec2024 08:18:13.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Provoker
+[21Dec2024 08:18:13.264] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:18:48.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has reached the goal [Fortuitous Militia]
+[21Dec2024 08:19:07.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Basher
+[21Dec2024 08:19:07.849] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[21Dec2024 08:19:09.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[21Dec2024 08:20:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Vindicator
+[21Dec2024 08:20:14.045] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:20:31.014] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:21:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was shot by Provoker
+[21Dec2024 08:21:20.856] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 08:21:40.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Diamonds!]
+[21Dec2024 08:21:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [Fortuitous Militia]
+[21Dec2024 08:26:42.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Myrmex Soldier
+[21Dec2024 08:26:42.474] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
