@@ -6,3 +6,86 @@
 [21Dec2024 00:11:15.621] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
 [21Dec2024 00:15:08.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
 [21Dec2024 00:15:08.267] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:16:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Skeleton
+[21Dec2024 00:16:57.153] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:17:14.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Skeleton
+[21Dec2024 00:17:14.400] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:17:27.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Skeleton
+[21Dec2024 00:17:27.853] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:17:51.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Skeleton
+[21Dec2024 00:17:51.235] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:18:21.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Skeleton
+[21Dec2024 00:18:21.650] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:19:17.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Skeleton
+[21Dec2024 00:19:17.798] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:22:22.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Ambush]
+[21Dec2024 00:24:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx fell from a high place
+[21Dec2024 00:24:56.762] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:26:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Rhinoceros
+[21Dec2024 00:26:00.547] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:27:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Rhinoceros
+[21Dec2024 00:27:10.396] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:27:51.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Rhinoceros
+[21Dec2024 00:27:51.746] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:28:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Rhinoceros
+[21Dec2024 00:28:19.047] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:28:55.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by Rhinoceros
+[21Dec2024 00:28:55.526] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:32:06.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Cobweb Entanglement]
+[21Dec2024 00:34:07.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was shot by Huntsman
+[21Dec2024 00:34:07.456] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:35:44.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Zombie Lumberjack
+[21Dec2024 00:35:44.169] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 00:37:25.548] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-273, y=25, z=-319}
+[21Dec2024 00:37:25.551] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-271, y=25, z=-319}
+[21Dec2024 00:37:25.552] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-269, y=25, z=-319}
+[21Dec2024 00:37:27.311] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=25, z=-318}
+[21Dec2024 00:37:27.311] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=26, z=-318}
+[21Dec2024 00:37:27.312] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-269, y=25, z=-309}
+[21Dec2024 00:37:27.312] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-269, y=25, z=-310}
+[21Dec2024 00:37:27.312] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-309}
+[21Dec2024 00:37:27.313] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-268, y=25, z=-308}
+[21Dec2024 00:37:27.313] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-307}
+[21Dec2024 00:37:27.313] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-269, y=25, z=-307}
+[21Dec2024 00:37:27.313] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=25, z=-307}
+[21Dec2024 00:37:27.314] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=25, z=-306}
+[21Dec2024 00:37:27.314] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-268, y=25, z=-306}
+[21Dec2024 00:37:27.314] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-269, y=25, z=-305}
+[21Dec2024 00:37:27.314] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-311}
+[21Dec2024 00:37:27.315] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=25, z=-318}
+[21Dec2024 00:37:27.315] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=25, z=-317}
+[21Dec2024 00:37:27.315] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-271, y=25, z=-318}
+[21Dec2024 00:37:27.316] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=25, z=-317}
+[21Dec2024 00:37:27.316] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-268, y=25, z=-317}
+[21Dec2024 00:37:27.332] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[21Dec2024 00:37:27.332] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[21Dec2024 00:37:27.333] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[21Dec2024 00:37:27.333] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-338}
+[21Dec2024 00:37:27.333] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[21Dec2024 00:37:27.333] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[21Dec2024 00:37:27.610] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-339}
+[21Dec2024 00:37:27.611] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[21Dec2024 00:37:27.611] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[21Dec2024 00:37:27.612] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-334}
+[21Dec2024 00:37:27.612] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-335}
+[21Dec2024 00:37:27.612] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-336}
+[21Dec2024 00:37:27.612] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[21Dec2024 00:37:27.613] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=27, z=-337}
+[21Dec2024 00:37:27.613] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[21Dec2024 00:37:31.598] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-305}
+[21Dec2024 00:37:31.598] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=32, z=-306}
+[21Dec2024 00:37:31.599] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-389, y=27, z=-304}
+[21Dec2024 00:37:31.616] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-308}
+[21Dec2024 00:37:31.616] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=27, z=-308}
+[21Dec2024 00:37:31.830] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=36, z=-302}
+[21Dec2024 00:37:31.831] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-303}
+[21Dec2024 00:37:39.128] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23867, l='ServerLevel[world]', x=277.50, y=72.00, z=1130.50]
+[21Dec2024 00:37:42.075] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[21Dec2024 00:37:42.076] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[21Dec2024 00:38:06.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24151, l='ServerLevel[world]', x=350.50, y=76.00, z=1021.50]
+[21Dec2024 00:39:36.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24612, l='ServerLevel[world]', x=276.50, y=72.00, z=1129.50]
+[21Dec2024 00:41:10.430] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24867, l='ServerLevel[world]', x=345.50, y=71.00, z=1112.50]
+[21Dec2024 00:42:17.729] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25151, l='ServerLevel[world]', x=277.50, y=72.00, z=1128.50]
+[21Dec2024 00:42:34.479] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25247, l='ServerLevel[world]', x=345.50, y=71.00, z=1113.50]
+[21Dec2024 00:43:08.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Disconnected
+[21Dec2024 00:43:08.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
