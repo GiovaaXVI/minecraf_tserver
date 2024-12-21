@@ -641,3 +641,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 05:32:10.068] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
 [21Dec2024 05:32:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by Piglin Paratrooper
 [21Dec2024 05:32:24.092] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:35:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Knight
+[21Dec2024 05:35:13.987] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 05:35:40.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=41, z=91} BlockPos{x=74, y=41, z=91}
+[21Dec2024 05:35:40.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=40, z=91} BlockPos{x=74, y=41, z=91}
+[21Dec2024 05:40:01.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12555, l='ServerLevel[world]', x=-6.15, y=-20.00, z=129.97] died: Restless Spirit was killed
+[21Dec2024 05:41:31.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Crab Rave]
