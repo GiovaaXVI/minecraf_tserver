@@ -8,6 +8,7 @@
       "minecraft:beach": "2024-12-20 19:34:37 +0000",
       "minecraft:sparse_jungle": "2024-12-20 17:33:58 +0000",
       "minecraft:river": "2024-12-20 17:34:35 +0000",
+      "minecraft:dripstone_caves": "2024-12-21 08:30:11 +0000",
       "minecraft:forest": "2024-12-20 18:04:18 +0000",
       "minecraft:desert": "2024-12-20 18:04:42 +0000",
       "minecraft:jungle": "2024-12-20 17:34:44 +0000",
@@ -602,6 +603,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2024-12-21 08:27:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cooked_dinosaur_chop": {
     "criteria": {
       "cooked_dinosaur_chop": "2024-12-21 06:08:32 +0000"
@@ -662,6 +669,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-21 08:27:22 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2024-12-21 06:39:49 +0000"
@@ -701,6 +714,12 @@
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2024-12-21 07:54:27 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-21 08:29:59 +0000"
     },
     "done": true
   },
