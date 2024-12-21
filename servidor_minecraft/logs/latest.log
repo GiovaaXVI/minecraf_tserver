@@ -194,3 +194,65 @@
 [21Dec2024 01:35:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Splintering II]
 [21Dec2024 01:35:46.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [A Flaming Sword]
 [21Dec2024 01:36:30.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [A Flaming Sword]
+[21Dec2024 01:38:13.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was burnt to a crisp whilst fighting Wither Skeleton
+[21Dec2024 01:38:13.818] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:38:33.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:38:35.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Ashes 'n Bones]
+[21Dec2024 01:39:54.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has reached the goal [In the Hall of the Piglin King]
+[21Dec2024 01:40:20.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [The Dust Settles]
+[21Dec2024 01:40:58.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Piglin Knight
+[21Dec2024 01:40:58.510] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:40:58.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [The Dust Settles]
+[21Dec2024 01:41:06.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Knight
+[21Dec2024 01:41:06.364] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:41:35.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx walked into the danger zone due to Piglin Knight
+[21Dec2024 01:41:35.513] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:41:44.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Knight
+[21Dec2024 01:41:44.666] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:41:50.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:42:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Paratrooper
+[21Dec2024 01:42:28.208] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:42:37.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/46214, l='ServerLevel[world]', x=80.48, y=35.00, z=49.62] died: Piglin Knight died
+[21Dec2024 01:43:24.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Knight
+[21Dec2024 01:43:24.463] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:43:50.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was shot by Arrow
+[21Dec2024 01:43:50.185] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:43:54.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/46311, l='ServerLevel[world]', x=77.45, y=71.42, z=96.73] died: Piglin Archer was burnt to a crisp whilst fighting GiovanyBy14
+[21Dec2024 01:44:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Scout
+[21Dec2024 01:44:02.663] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:44:02.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx moved wrongly!
+[21Dec2024 01:44:12.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Scout
+[21Dec2024 01:44:12.267] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:44:35.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:44:59.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Wither Skeleton
+[21Dec2024 01:44:59.833] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:45:04.664] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 01:45:04.664] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 01:45:04.664] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 01:45:04.664] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 01:45:04.664] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 01:45:04.665] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 01:45:04.665] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 01:45:20.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall
+[21Dec2024 01:45:20.667] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:45:21.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Piglin Paratrooper
+[21Dec2024 01:45:21.516] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:45:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:45:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:45:53.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[21Dec2024 01:45:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was doomed to fall by Piglin Paratrooper
+[21Dec2024 01:45:59.025] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:46:14.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Knight
+[21Dec2024 01:46:14.743] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:46:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Piglin Paratrooper
+[21Dec2024 01:46:17.845] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:46:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Paratrooper
+[21Dec2024 01:46:30.506] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:46:35.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Piglin Paratrooper
+[21Dec2024 01:46:35.154] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:46:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Paratrooper
+[21Dec2024 01:46:41.286] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[21Dec2024 01:46:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Piglin Paratrooper
+[21Dec2024 01:46:54.307] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[21Dec2024 01:47:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Piglin Knight
+[21Dec2024 01:47:07.022] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
